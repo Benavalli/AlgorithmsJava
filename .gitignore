@@ -1,0 +1,13 @@
+/problems/*.iml
+/problems/.gradle
+/problems/local.properties
+/problems/classes
+/problems/.idea/workspace.xml
+/problems/.idea/runConfigurations.xml
+/problems/.idea/vcs.xml
+/problems/.idea/misc.xml
+/problems/.idea/libraries
+/problems/.idea/sonarlint.xml
+/problems/.idea/sonarlint/**
+/problems/.DS_Store
+/problems/build
